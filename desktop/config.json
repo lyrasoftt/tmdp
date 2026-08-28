@@ -1,0 +1,30 @@
+{
+  "_comment": "Telegram Media Downloader Pro reads this file. Edit it, run  python sign/sign_config.py site/desktop/config.json  then upload. Every installed copy picks up the change on its next start - no new build needed. Image paths starting with / are resolved against whichever address served this file.",
+  "_moved_to": "To move every installed copy to a new address, add  \"moved_to\": \"https://new-address\"  while this address still answers, then sign and upload. The app follows it once and remembers it.",
+  "updated": "2026-08-29",
+  "links": {
+    "coffee": "https://kanalim.site/",
+    "discord": "https://kanalim.site/",
+    "telegram": "https://kanalim.site/"
+  },
+  "products": [
+    {
+      "name": "KanalPusula",
+      "tagline": "Find real Telegram and Discord channels",
+      "description": "A searchable directory of channels and servers, with owner verification so the listings stay real. Free to browse; owners can promote their listing.",
+      "images": [
+        "/desktop/img/kanalpusula-1.png",
+        "/desktop/img/kanalpusula-2.png"
+      ],
+      "links": [
+        {
+          "label": "Visit kanalim.site",
+          "url": "https://kanalim.site/"
+        }
+      ]
+    }
+  ],
+  "seq": 1,
+  "signed": "2026-08-28T23:23:01Z",
+  "sig": "qWnm4GzAwNF8Uhp9f2/LTgCHiOOoCFfX7jNIy3Q807inkEvaClukUhhhLJm/d4RSmByPAHy2K53sYEEGVj3USkZBJG0HKB97VujZVoeXoBcBuA+YW3rzTBoQz/zR4b7ofrUywq0bCRJCHQYGYu23DqCuMCzHHkdUwxEw2UGFEYkik8s/UW8T/LrR2B8sECnVW6aLWF1oBwWY58w7EriR6dxeXPnnfzEzkrm/bm+7QADw/OfAYlmapn9+KX0wfeQEFJ0zppZfarpLvEmOCgf93YwM8WmN6gka7Yrvn/aWT5nUMPH/qve6V/VybYrnROyVsjm54M6wP6V9xjhpQuKirw=="
+}
