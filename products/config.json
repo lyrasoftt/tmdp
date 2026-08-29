@@ -4,7 +4,7 @@
   "updated": "2026-08-29",
   "links": {
     "coffee": "https://www.patreon.com/cw/lyrasoft/membership",
-    "discord": "google.com",
+    "discord": "https://www.patreon.com/cw/lyrasoft/membership",
     "telegram": "https://kanalim.site/"
   },
   "products": [
@@ -21,7 +21,7 @@
       ]
     }
   ],
-  "seq": 3,
-  "signed": "2026-08-29T00:43:52Z",
-  "sig": "csRw+zfYDPH8GCRik8lqLF6pe32XNqbL347WmWjtQjUx9WRjOrm/sofwxc2QwjCneCiMGJc2farbhPDWg9iK8UdnwAA7XVBoAX4jKUEBd6eUGmntyG/p5v2eOlURuw/V0x3IqPViLhvG0EVcG/YqN6WK7QZwONmInhZMZ0GXt4bwd/zoDlo2JLs/RM5sXCwh2tK/Dlt8r06mIpTa9C73w6SmcPI+Xs5z0ndjplbJwurmCUM/pSfdIW/bsRPbcW70DaRGDWN8QY+oaAhRDEfphLv7mOfS9T+RHM+N4AtCxq16UCPv0kwhGLlIc2sKw6Ai4FF5cFaQlM7AAsDWTr+y+w=="
+  "seq": 4,
+  "signed": "2026-08-29T00:48:54Z",
+  "sig": "S1Mi6UhomMqTZvyrxuYEeb/53zXOG+07XtCOTBrf4ygXPG75eCLZKJOUJP1oOeJqwBgZu23PADJbyGKfp8tuYuPO0DocZPS3a5AVMJ2VEpEK3woOHjkJvVi7Hw0wnDaILFc2cqI6n1wngfTBagQyTzynO6nfIbR16Z632g/rkTqOEAuzGNNlC91l0PAFgHZXRLHGZ6nDHnNMdbKwqO3Cutvgv6e3cPS+IhtKd23CP/NWBUJSpSt+Cp7yZcYwosG+Nd8/bYpOhPOhH38EcWuUNDNq1m+XKx5Xl9p+ZwS+XZME0cecSdQIcrnJ27Kfvbkc33EAvdr1yRr7fCh59VhcEA=="
 }
