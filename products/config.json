@@ -1,0 +1,27 @@
+{
+  "_comment": "Telegram Media Downloader Pro reads this file. Edit it, run  python deploy_content.py  then push ghpages/ to github.com/lyrasoftt/tmdp . Every installed copy picks up the change on its next start - no new build needed. Image paths starting with / are resolved against whichever address served this file.",
+  "_moved_to": "To move every installed copy to a new address, add  \"moved_to\": \"https://new-address\"  while this address still answers, then sign and push. The app follows it once and remembers it.",
+  "updated": "2026-08-29",
+  "links": {
+    "coffee": "https://kanalim.site/",
+    "discord": "https://kanalim.site/",
+    "telegram": "https://kanalim.site/"
+  },
+  "products": [
+    {
+      "name": "Telegram Media Downloader Pro",
+      "tagline": "Bulk-download photos, video, audio and files from any Telegram chat",
+      "description": "Point it at a channel, group or private chat and it saves every matching file at once - pick the media types and formats you want, watch live speed and progress, keep original filenames. Works with public links, invite links and numeric IDs.",
+      "images": [],
+      "links": [
+        {
+          "label": "Get it on kanalim.site",
+          "url": "https://kanalim.site/"
+        }
+      ]
+    }
+  ],
+  "seq": 2,
+  "signed": "2026-08-28T23:56:26Z",
+  "sig": "AOwRQfrLP17MkJRzpX0ic1diPLISrSK7v7Qik+Ko5fBqG5hIxw9v+B2jIgcjvw3zYjTmL2oIpfHdx5Vg0l0NRKBtu8wPEVRd9zbPL6BCuBWad0MBFvuYt+dquqQJKqqHhaMPou13ika9Gi86Kc4pE2p9PsRKwln98zJ7FRYIv0v3xNiKVuKWdZtnrUKSUDHhEcofS1dTA7onjiHqis2KlBgflGsW5FK/hl8uT35s0pHMU3OWGS/OqF43/NhTG4AIIRJUukAc83VQQTurXr4i1nJrB0DqsWgLWccGttiwyQAhAex1VY6afahVmFvDxuEUocsbjmAbY3rhxkkI6GwoCQ=="
+}
