@@ -24,9 +24,9 @@
       ]
     }
   ],
-  "seq": 22,
-  "signed": "2026-08-29T02:56:56Z",
-  "lock": true,
-  "lock_message": "Please update the software.",
-  "sig": "it/E6RDUH380f116BeaTZAfXM+Dwzo2icxgJRW/B/WK23vssj8FrHrs8a5cNc4moz8ceQJPv5mSGmuRBsjIIM/ePmX2GLaFO+q2vWqnFAqDF+2r/xep+T1moxJODaRQUoptgGIgsNOBtp1ItQnLXxAUPCcwMJZcQ2xFqwC/BqlxsEj1yDp38Q+nl14ggpCwyzunOwGjFDGexOUgqoSwAHx1MG1m12MscFBN0QcD3WsKl0OesKVLl/7lxETZbEvLzrep8oMPKK3WIpml0Dq2OU9RUQg5j5KtqR7S2iIDdnICxK9KDS3pG43wWw3EoeUoBRnOz+Qpfr2/otdUP9K4Xxg=="
+  "seq": 23,
+  "signed": "2026-08-29T03:01:09Z",
+  "lock": false,
+  "lock_message": "",
+  "sig": "Qgg0k9SNo7tVtSA42BGJyQJWbWNLlSPO/ZnByozMYKxQ26B+ld1UGkTeqsl9FCQVO0qi/n+HZ2OeXZlXgdtY84WvAybnwD4UvKPIShcqu/nBsJEQHsaNDXMhTuEAgv9MmOpSvpmIYigx+ENee9sD7PUVXNgRtRGuGS8M0Pahg1mqeUlRBbQ7kAvyS9FHgAT2iGVg994F1dzVfUvwj84gfjq/R8RhLettdIi31RtODTzL2485ghrXAhogrM8wZxQcN7R/xy0rm5lVejQWbamKOI0K2oj+Xt5khDNhs+AlwUcB2Be3xRFbN3T4/py78jILAPAAVHYRxTkS+RIjgSwrSA=="
 }
