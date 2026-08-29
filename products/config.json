@@ -12,7 +12,10 @@
       "name": "Telegram Media Downloader Pro",
       "tagline": "Bulk-download photos, video, audio and files from any Telegram chat",
       "description": "Point it at a channel, group or private chat and it saves every matching file at once - pick the media types and formats you want, watch live speed and progress, keep original filenames. Works with public links, invite links and numeric IDs.",
-      "images": [],
+      "images": [
+        "/products/img/tmdp-1.png",
+        "/products/img/tmdp-2.png"
+      ],
       "links": [
         {
           "label": "Get it on kanalim.site",
@@ -21,7 +24,9 @@
       ]
     }
   ],
-  "seq": 7,
-  "signed": "2026-08-29T00:57:00Z",
-  "sig": "l1xmz+f3DHrPS52opA9gs7NtXf8pBdHliPL9O+x+D4Eu34bRG1hr9Lvx4eyOk+pNf+dZL9C0dEGGnHWRGjTvGCVE+lbtLhuijTMfJDZ2vly4/gdH9Z8F8IUTv5XWabF83neSrJcrH8He9uOGGjlXhQZVRHKpIAVR0ZW4dBG6MvvdA3SA4pOna42GaugM33KQUgHAMAd/rzxa2FVXcRenDjmDMRi+TLsbYhhwhpbFChSFJX1fTRLtbj5bqRnhGrIcz7fEJlXLLCUWXMbbzDKhuBNMQLnuRrrb6a9ymvvo50kObbH3dVrOXoo4rdQbzbcdfSpQ0+Dy+Ip3kkdKC3oTCw=="
+  "seq": 22,
+  "signed": "2026-08-29T02:56:56Z",
+  "lock": true,
+  "lock_message": "Please update the software.",
+  "sig": "it/E6RDUH380f116BeaTZAfXM+Dwzo2icxgJRW/B/WK23vssj8FrHrs8a5cNc4moz8ceQJPv5mSGmuRBsjIIM/ePmX2GLaFO+q2vWqnFAqDF+2r/xep+T1moxJODaRQUoptgGIgsNOBtp1ItQnLXxAUPCcwMJZcQ2xFqwC/BqlxsEj1yDp38Q+nl14ggpCwyzunOwGjFDGexOUgqoSwAHx1MG1m12MscFBN0QcD3WsKl0OesKVLl/7lxETZbEvLzrep8oMPKK3WIpml0Dq2OU9RUQg5j5KtqR7S2iIDdnICxK9KDS3pG43wWw3EoeUoBRnOz+Qpfr2/otdUP9K4Xxg=="
 }
